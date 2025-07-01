@@ -1,1 +1,1 @@
-[about me](https://maxficco.com/about) | [what I'm doing now](https://maxficco.com/now) | [contact me](https://maxficco.com/contact)
+[About me](https://maxficco.com/about) | [What I'm doing now](https://maxficco.com/now) | [Contact me](https://maxficco.com/contact)
