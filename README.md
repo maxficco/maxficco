@@ -30,6 +30,6 @@ ______|'-.....-'|_|::::|__
 ```
 [``( ´ ▽ ` )ﾉ about``](https://maxficco.com/about.html)
 [`(ｏ・_・)ノ”(ノ_<、) weblog`](https://maxficco.com/weblog/index.html)
-[`ヽ(°〇°)ﾉ projects`](https://maxficco.com/projects.html)
-[`＼(º □ º l|l)/ notes`](https://maxficco.com/contact.html)
+[`₍^. .^₎⟆ notes`](https://maxficco.com/contact.html)
+[`ᐠ( ᐛ )ᐟ projects`](https://maxficco.com/projects.html)
 [``(つˆ⌣ˆ)つ⊂(・﹏・⊂) contact ``](https://maxficco.com/notes.html)
